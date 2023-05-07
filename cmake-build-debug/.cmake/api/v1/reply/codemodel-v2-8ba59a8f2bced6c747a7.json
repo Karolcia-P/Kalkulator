@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/karol/OneDrive/Pulpit/lab3/lab3/cmake-build-debug",
-		"source" : "C:/Users/karol/OneDrive/Pulpit/lab3/lab3"
+		"build" : "C:/Users/karol/OneDrive/Pulpit/lab3/lab3/Kalkulator/cmake-build-debug",
+		"source" : "C:/Users/karol/OneDrive/Pulpit/lab3/lab3/Kalkulator"
 	},
 	"version" : 
 	{
